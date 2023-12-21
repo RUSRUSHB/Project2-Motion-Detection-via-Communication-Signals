@@ -1,5 +1,9 @@
 # Project2-Motion-Detection-via-Communication-Signals
 
+## Hints
+
+### Cor函数能否优化？想想傅里叶变换
+
 ## 工作规范
 
 ### Gitignore
@@ -20,3 +24,7 @@
 
 `Main.mlx`是主要**运行**代码所在的文件，可能有且仅有代码
 `Report.mlx`是格式已修正的，含充分文字的，以后直接成为最终报告的文件
+
+### Pool
+
+小代码片段就扔到这里面，方便其他人复制。
