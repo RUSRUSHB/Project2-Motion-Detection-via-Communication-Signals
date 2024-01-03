@@ -18,7 +18,7 @@ $$
 Cor(\tau, f_D)=\sum^{N-1}_{n=0}x[n]e^{-j2\pi f_DnT_s}
 $$
 
-Recall that the k-th term of Fourier Transform is defined as:
+Recall that the $k$-th term of Fourier Transform is defined as:
 $$
 \sum^{N-1}_{n=0}x[n]e^{-j2\pi kn/N}
 $$
